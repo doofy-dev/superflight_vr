@@ -10,7 +10,7 @@ In-game footage
 * Launch the game and close after it loads to set up BePinEX
 * Download the latest version of this mod from [Releases](https://github.com/doofy-dev/superflight_vr/releases)
   * Extract the patcher folder contents into ``<SuperFlight Install location>\BepInEx\patchers``
-  * Copy the mod folder into ``<SuperFlight Install location>\BepInEx\plugins``
+  * Copy the plugins folder contents into ``<SuperFlight Install location>\BepInEx\plugins``
 
 ## In Progress
 * In-game UI conversion
