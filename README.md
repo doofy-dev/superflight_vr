@@ -12,8 +12,7 @@ In-game footage
   * Extract the patcher folder contents into ``<SuperFlight Install location>\BepInEx\patchers``
   * Copy the plugins folder contents into ``<SuperFlight Install location>\BepInEx\plugins``
 
-## In Progress
-* In-game UI conversion
-  * Combo
-  * Score [done]
-  * Praises
+## Known issues
+* Game is giving praises for no reason
+  * Have to test out a couple of things on why this is happening, but it shouldn't affect your points
+* Not really an issue, but maybe the combo display should be in a fixed position
