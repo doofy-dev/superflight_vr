@@ -1,7 +1,7 @@
 # Superflight VR
 
 In-game footage 
-[![Watch the video](https://img.youtube.com/vi/OJ6IlnCuixE/maxresdefault.jpg)](https://www.youtube.com/watch?v=OJ6IlnCuixE)
+[![Watch the video](https://img.youtube.com/vi/JoXg7KIXv9k/maxresdefault.jpg)](https://www.youtube.com/watch?v=JoXg7KIXv9k)
 
 ## Installation
 
